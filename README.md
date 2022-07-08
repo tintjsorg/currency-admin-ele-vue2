@@ -1,4 +1,4 @@
-# currency-template-vue2
+# currency-template-vant2-vue2
 
 ## vue2+vant2+pinia --mobileProject
 
