@@ -1,6 +1,6 @@
-# currency-template-vant2-vue2
+# currency-admin-ele-vue2
 
-## vue2+vant2+pinia --mobileProject
+## vue2+elementUI+pinia --Project
 
 ## Project setup
 

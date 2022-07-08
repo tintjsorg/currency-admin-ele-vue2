@@ -1,16 +1,13 @@
 module.exports = {
-  presets: ['@vue/cli-plugin-babel/preset'],
+  presets: ['@vue/app'],
   plugins: [
+    // element官方教程
     [
-      'import',
+      'component',
       {
-        libraryName: 'vant',
-        libraryDirectory: 'es',
-        // 指定样式路径
-        style: name => `${name}/style/less`,
+        libraryName: 'element-ui',
+        styleLibraryName: 'theme-chalk',
       },
-      'vant',
     ],
   ],
 }
-
